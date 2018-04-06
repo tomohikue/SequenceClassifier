@@ -1,0 +1,2 @@
+# SequenceClassifier
+Microsoft Cognitive Toolkitを使った自然言語分類器
