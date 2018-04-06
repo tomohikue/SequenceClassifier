@@ -1,0 +1,4 @@
+﻿TestText	correct	correct_Multi	predict_1	conficence_1	predict_2	conficence_2	predict_3	conficence_3
+Office365の買い方			1	0.952735	2	0.043324	0	0.003781
+excel単体の買い方			2	0.526829	3	0.464584	1	0.006721
+Office365のサブスクリプションIDが知りたい			3	0.496558	2	0.493909	1	0.007734

@@ -1,0 +1,132 @@
+﻿# Copyright (c) Microsoft. All rights reserved.
+# Licensed under the MIT license. See LICENSE file in the project root for full license information.
+command = Output ;
+wordCount = 29;
+labelCount = 4 ;  # ラベルの数 + 1
+
+RootDir = ".."
+
+ConfigDir = "$RootDir$\Config"
+DataDir   = "$RootDir$\Data"
+OutputDir = "$RootDir$\Output"
+ModelDir  = "$RootDir$\Model"
+
+# command=Train #:Write
+
+# deviceId = $DeviceId$
+deviceId = "auto" # 元の設定のままだとGPU版CNTKがOverFlowエラーになる
+modelPath="$ModelDir$\seqcla.dnn"
+makeMode = false # set true to enable checkpointing
+
+traceLevel = 0 # Add
+parallelTrain = true # Add 並列Trainが有効になり、早くなる
+
+# labelCount = 109 ;
+vocabDim = 2000 # $wordCount$
+
+Train=[
+    action="train"
+    
+    BrainScriptNetworkBuilder=[
+        # LSTM params
+        lstmDim = 25
+        cellDim = 25
+
+        # model dims
+        numLabels = $labelCount$
+        vocabDim = $vocabDim$
+        embedDim = 50
+
+        # define the model, by composing layer functions
+        model = Sequential
+        (
+            EmbeddingLayer {embedDim} :   # , embeddingPath="$DataDir$\embeddingmatrix.txt", transpose=true} :  # load the pre-learned word embedding matrix
+            RecurrentLSTMLayer {lstmDim, cellShape=cellDim, init="gaussian"} :
+            BS.Sequences.Last :
+            DenseLayer {numLabels, init="gaussian"}  # using "gaussian" for back compat/regresson tests only
+        )
+
+        # inputs
+        t = DynamicAxis{}
+        features = SparseInput {$vocabDim$, dynamicAxis=t}  # Input has shape (vocabDim,t) and is one-hot sparse
+        labels   =       Input {numLabels}                  # Input has shape (numLabels,*) where all sequences in *=1
+
+        # apply model
+        z = model (features)
+        p = Softmax(z) # Add
+
+        # Make sure the trainer understands that the time dimension of l3 is actually the same as that of labels.
+        zp = ReconcileDynamicAxis(z, labels)
+
+        # training criteria
+        ce  = CrossEntropyWithSoftmax (labels, zp)  // this is the training objective
+        err = ClassificationError     (labels, zp)  // this also gets tracked
+
+        # connect to system
+        featureNodes    = (features)
+        labelNodes      = (labels)
+        criterionNodes  = (ce)
+        evaluationNodes = (err)
+        # outputNodes     = (z)
+        outputNodes     = (p) # Add
+
+    ]
+
+    SGD = [	
+        epochSize = 0
+        minibatchSize = 200
+        maxEpochs = 150
+        momentumPerMB = 0.9
+        learningRatesPerMB = 0.1
+        # We are testing checkpointing, keep all checkpoint (.ckp) files
+        keepCheckPointFiles = true
+
+        dropoutRate = 0.7 # Add
+        gradUpdateType = "FSAdaGrad"
+        # gradientClippingWithTruncation = true
+        # clippingThresholdPerSample = 15.0
+        # firstMBsToShowResult = 10
+        # numMBsToShowResult = 100
+        
+    ]
+
+    reader = [
+        readerType = "CNTKTextFormatReader"
+        #file = "$DataDir$/Train.txt"
+        file = "$DataDir$\CNTKTrainingData.sparce"
+        input = [
+#            features = [ alias = "x" ; dim = $vocabDim$ ; format = "sparse" ]
+#            labels =   [ alias = "y" ; dim = 5          ; format = "dense" ]
+            features = [ alias = "Word"  ; dim = $vocabDim$   ; format = "sparse" ]
+            labels =   [ alias = "Label" ; dim = $labelCount$ ; format = "sparse" ]
+        ]
+   ]    
+   outputPath = "$OutputDir$/output.txt"        # dump the output as text?
+]
+
+# this is currently not used
+Output=[
+    action="write"   # TODO: test vs. Write?   # Change write
+
+    modelFile = "$ModelDir$/seqcla.dnn"    
+
+#    format = [
+#      # %n = minibatch, %x = shape, %d = sequenceId
+#      sequencePrologue=%d\t|w.shape %x\n%d\t|w\s
+#      sampleSeparator=\n%d\t|w\s
+#      elementSeparator=\s
+#    ]
+
+    reader = [
+        readerType = "CNTKTextFormatReader"
+        # file = "$DataDir$/Train.txt"            
+        file = "$DataDir$\CNTKTestData.sparce"            
+        input = [
+#            features = [ alias = "x" ; dim = $vocabDim$ ; format = "sparse" ]
+#            labels =   [ alias = "y" ; dim = 5          ; format = "dense" ]
+            features = [ alias = "Word"  ; dim = $vocabDim$   ; format = "sparse" ]
+            labels =   [ alias = "Label" ; dim = $labelCount$ ; format = "sparse" ]
+        ]
+   ]    
+   outputPath = "$DataDir$\CNTKOutputData.txt"        # dump the output as text?
+]

@@ -1,0 +1,1275 @@
+﻿0	|# office	|Word 1:1	|Label 1:1
+0	|# 365	|Word 2:1	
+0	|# って	|Word 3:1	
+0	|# どう	|Word 4:1	
+0	|# やる	|Word 5:1	
+0	|# 買える	|Word 6:1	
+1	|# office	|Word 1:1	|Label 1:1
+1	|# 365	|Word 2:1	
+1	|# 買う	|Word 7:1	
+1	|# 方法	|Word 8:1	
+2	|# excel	|Word 9:1	|Label 2:1
+2	|# だけ	|Word 10:1	
+2	|# 買う	|Word 7:1	
+2	|# こと	|Word 11:1	
+2	|# できる	|Word 12:1	
+2	|# ます	|Word 13:1	
+2	|# か	|Word 14:1	
+3	|# excel	|Word 9:1	|Label 2:1
+3	|# 単体	|Word 15:1	
+3	|# 買う	|Word 7:1	
+3	|# こと	|Word 11:1	
+3	|# 可能	|Word 16:1	
+4	|# office	|Word 1:1	|Label 3:1
+4	|# 365	|Word 2:1	
+4	|# サブスクリプション	|Word 17:1	
+4	|# id	|Word 18:1	
+4	|# って	|Word 3:1	
+4	|# どこ	|Word 19:1	
+4	|# わかる	|Word 20:1	
+5	|# office	|Word 1:1	|Label 3:1
+5	|# 365	|Word 2:1	
+5	|# サブスクリプション	|Word 17:1	
+5	|# id	|Word 18:1	
+5	|# 入力	|Word 21:1	
+5	|# する	|Word 22:1	
+5	|# くださる	|Word 23:1	
+5	|# 出る	|Word 24:1	
+5	|# ます	|Word 13:1	
+6	|# o	|Word 25:1	|Label 3:1
+6	|# 365	|Word 2:1	
+6	|# subscription	|Word 26:1	
+6	|# id	|Word 18:1	
+6	|# どこ	|Word 19:1	
+6	|# 書く	|Word 27:1	
+6	|# いる	|Word 28:1	
+7	|# o	|Word 25:1	|Label 3:1
+7	|# 365	|Word 2:1	
+7	|# subscription	|Word 26:1	
+7	|# id	|Word 18:1	
+7	|# 教える	|Word 29:1	
+7	|# くださる	|Word 23:1	
+8	|# office	|Word 1:1	|Label 1:1
+8	|# 365	|Word 2:1	
+8	|# って	|Word 3:1	
+8	|# どう	|Word 4:1	
+8	|# やる	|Word 5:1	
+8	|# 買える	|Word 6:1	
+9	|# office	|Word 1:1	|Label 1:1
+9	|# 365	|Word 2:1	
+9	|# 買う	|Word 7:1	
+9	|# 方法	|Word 8:1	
+10	|# excel	|Word 9:1	|Label 2:1
+10	|# だけ	|Word 10:1	
+10	|# 買う	|Word 7:1	
+10	|# こと	|Word 11:1	
+10	|# できる	|Word 12:1	
+10	|# ます	|Word 13:1	
+10	|# か	|Word 14:1	
+11	|# excel	|Word 9:1	|Label 2:1
+11	|# 単体	|Word 15:1	
+11	|# 買う	|Word 7:1	
+11	|# こと	|Word 11:1	
+11	|# 可能	|Word 16:1	
+12	|# office	|Word 1:1	|Label 3:1
+12	|# 365	|Word 2:1	
+12	|# サブスクリプション	|Word 17:1	
+12	|# id	|Word 18:1	
+12	|# って	|Word 3:1	
+12	|# どこ	|Word 19:1	
+12	|# わかる	|Word 20:1	
+13	|# office	|Word 1:1	|Label 3:1
+13	|# 365	|Word 2:1	
+13	|# サブスクリプション	|Word 17:1	
+13	|# id	|Word 18:1	
+13	|# 入力	|Word 21:1	
+13	|# する	|Word 22:1	
+13	|# くださる	|Word 23:1	
+13	|# 出る	|Word 24:1	
+13	|# ます	|Word 13:1	
+14	|# o	|Word 25:1	|Label 3:1
+14	|# 365	|Word 2:1	
+14	|# subscription	|Word 26:1	
+14	|# id	|Word 18:1	
+14	|# どこ	|Word 19:1	
+14	|# 書く	|Word 27:1	
+14	|# いる	|Word 28:1	
+15	|# o	|Word 25:1	|Label 3:1
+15	|# 365	|Word 2:1	
+15	|# subscription	|Word 26:1	
+15	|# id	|Word 18:1	
+15	|# 教える	|Word 29:1	
+15	|# くださる	|Word 23:1	
+16	|# office	|Word 1:1	|Label 1:1
+16	|# 365	|Word 2:1	
+16	|# って	|Word 3:1	
+16	|# どう	|Word 4:1	
+16	|# やる	|Word 5:1	
+16	|# 買える	|Word 6:1	
+17	|# office	|Word 1:1	|Label 1:1
+17	|# 365	|Word 2:1	
+17	|# 買う	|Word 7:1	
+17	|# 方法	|Word 8:1	
+18	|# excel	|Word 9:1	|Label 2:1
+18	|# だけ	|Word 10:1	
+18	|# 買う	|Word 7:1	
+18	|# こと	|Word 11:1	
+18	|# できる	|Word 12:1	
+18	|# ます	|Word 13:1	
+18	|# か	|Word 14:1	
+19	|# excel	|Word 9:1	|Label 2:1
+19	|# 単体	|Word 15:1	
+19	|# 買う	|Word 7:1	
+19	|# こと	|Word 11:1	
+19	|# 可能	|Word 16:1	
+20	|# office	|Word 1:1	|Label 3:1
+20	|# 365	|Word 2:1	
+20	|# サブスクリプション	|Word 17:1	
+20	|# id	|Word 18:1	
+20	|# って	|Word 3:1	
+20	|# どこ	|Word 19:1	
+20	|# わかる	|Word 20:1	
+21	|# office	|Word 1:1	|Label 3:1
+21	|# 365	|Word 2:1	
+21	|# サブスクリプション	|Word 17:1	
+21	|# id	|Word 18:1	
+21	|# 入力	|Word 21:1	
+21	|# する	|Word 22:1	
+21	|# くださる	|Word 23:1	
+21	|# 出る	|Word 24:1	
+21	|# ます	|Word 13:1	
+22	|# o	|Word 25:1	|Label 3:1
+22	|# 365	|Word 2:1	
+22	|# subscription	|Word 26:1	
+22	|# id	|Word 18:1	
+22	|# どこ	|Word 19:1	
+22	|# 書く	|Word 27:1	
+22	|# いる	|Word 28:1	
+23	|# o	|Word 25:1	|Label 3:1
+23	|# 365	|Word 2:1	
+23	|# subscription	|Word 26:1	
+23	|# id	|Word 18:1	
+23	|# 教える	|Word 29:1	
+23	|# くださる	|Word 23:1	
+24	|# office	|Word 1:1	|Label 1:1
+24	|# 365	|Word 2:1	
+24	|# って	|Word 3:1	
+24	|# どう	|Word 4:1	
+24	|# やる	|Word 5:1	
+24	|# 買える	|Word 6:1	
+25	|# office	|Word 1:1	|Label 1:1
+25	|# 365	|Word 2:1	
+25	|# 買う	|Word 7:1	
+25	|# 方法	|Word 8:1	
+26	|# excel	|Word 9:1	|Label 2:1
+26	|# だけ	|Word 10:1	
+26	|# 買う	|Word 7:1	
+26	|# こと	|Word 11:1	
+26	|# できる	|Word 12:1	
+26	|# ます	|Word 13:1	
+26	|# か	|Word 14:1	
+27	|# excel	|Word 9:1	|Label 2:1
+27	|# 単体	|Word 15:1	
+27	|# 買う	|Word 7:1	
+27	|# こと	|Word 11:1	
+27	|# 可能	|Word 16:1	
+28	|# office	|Word 1:1	|Label 3:1
+28	|# 365	|Word 2:1	
+28	|# サブスクリプション	|Word 17:1	
+28	|# id	|Word 18:1	
+28	|# って	|Word 3:1	
+28	|# どこ	|Word 19:1	
+28	|# わかる	|Word 20:1	
+29	|# office	|Word 1:1	|Label 3:1
+29	|# 365	|Word 2:1	
+29	|# サブスクリプション	|Word 17:1	
+29	|# id	|Word 18:1	
+29	|# 入力	|Word 21:1	
+29	|# する	|Word 22:1	
+29	|# くださる	|Word 23:1	
+29	|# 出る	|Word 24:1	
+29	|# ます	|Word 13:1	
+30	|# o	|Word 25:1	|Label 3:1
+30	|# 365	|Word 2:1	
+30	|# subscription	|Word 26:1	
+30	|# id	|Word 18:1	
+30	|# どこ	|Word 19:1	
+30	|# 書く	|Word 27:1	
+30	|# いる	|Word 28:1	
+31	|# o	|Word 25:1	|Label 3:1
+31	|# 365	|Word 2:1	
+31	|# subscription	|Word 26:1	
+31	|# id	|Word 18:1	
+31	|# 教える	|Word 29:1	
+31	|# くださる	|Word 23:1	
+32	|# office	|Word 1:1	|Label 1:1
+32	|# 365	|Word 2:1	
+32	|# って	|Word 3:1	
+32	|# どう	|Word 4:1	
+32	|# やる	|Word 5:1	
+32	|# 買える	|Word 6:1	
+33	|# office	|Word 1:1	|Label 1:1
+33	|# 365	|Word 2:1	
+33	|# 買う	|Word 7:1	
+33	|# 方法	|Word 8:1	
+34	|# excel	|Word 9:1	|Label 2:1
+34	|# だけ	|Word 10:1	
+34	|# 買う	|Word 7:1	
+34	|# こと	|Word 11:1	
+34	|# できる	|Word 12:1	
+34	|# ます	|Word 13:1	
+34	|# か	|Word 14:1	
+35	|# excel	|Word 9:1	|Label 2:1
+35	|# 単体	|Word 15:1	
+35	|# 買う	|Word 7:1	
+35	|# こと	|Word 11:1	
+35	|# 可能	|Word 16:1	
+36	|# office	|Word 1:1	|Label 3:1
+36	|# 365	|Word 2:1	
+36	|# サブスクリプション	|Word 17:1	
+36	|# id	|Word 18:1	
+36	|# って	|Word 3:1	
+36	|# どこ	|Word 19:1	
+36	|# わかる	|Word 20:1	
+37	|# office	|Word 1:1	|Label 3:1
+37	|# 365	|Word 2:1	
+37	|# サブスクリプション	|Word 17:1	
+37	|# id	|Word 18:1	
+37	|# 入力	|Word 21:1	
+37	|# する	|Word 22:1	
+37	|# くださる	|Word 23:1	
+37	|# 出る	|Word 24:1	
+37	|# ます	|Word 13:1	
+38	|# o	|Word 25:1	|Label 3:1
+38	|# 365	|Word 2:1	
+38	|# subscription	|Word 26:1	
+38	|# id	|Word 18:1	
+38	|# どこ	|Word 19:1	
+38	|# 書く	|Word 27:1	
+38	|# いる	|Word 28:1	
+39	|# o	|Word 25:1	|Label 3:1
+39	|# 365	|Word 2:1	
+39	|# subscription	|Word 26:1	
+39	|# id	|Word 18:1	
+39	|# 教える	|Word 29:1	
+39	|# くださる	|Word 23:1	
+40	|# office	|Word 1:1	|Label 1:1
+40	|# 365	|Word 2:1	
+40	|# って	|Word 3:1	
+40	|# どう	|Word 4:1	
+40	|# やる	|Word 5:1	
+40	|# 買える	|Word 6:1	
+41	|# office	|Word 1:1	|Label 1:1
+41	|# 365	|Word 2:1	
+41	|# 買う	|Word 7:1	
+41	|# 方法	|Word 8:1	
+42	|# excel	|Word 9:1	|Label 2:1
+42	|# だけ	|Word 10:1	
+42	|# 買う	|Word 7:1	
+42	|# こと	|Word 11:1	
+42	|# できる	|Word 12:1	
+42	|# ます	|Word 13:1	
+42	|# か	|Word 14:1	
+43	|# excel	|Word 9:1	|Label 2:1
+43	|# 単体	|Word 15:1	
+43	|# 買う	|Word 7:1	
+43	|# こと	|Word 11:1	
+43	|# 可能	|Word 16:1	
+44	|# office	|Word 1:1	|Label 3:1
+44	|# 365	|Word 2:1	
+44	|# サブスクリプション	|Word 17:1	
+44	|# id	|Word 18:1	
+44	|# って	|Word 3:1	
+44	|# どこ	|Word 19:1	
+44	|# わかる	|Word 20:1	
+45	|# office	|Word 1:1	|Label 3:1
+45	|# 365	|Word 2:1	
+45	|# サブスクリプション	|Word 17:1	
+45	|# id	|Word 18:1	
+45	|# 入力	|Word 21:1	
+45	|# する	|Word 22:1	
+45	|# くださる	|Word 23:1	
+45	|# 出る	|Word 24:1	
+45	|# ます	|Word 13:1	
+46	|# o	|Word 25:1	|Label 3:1
+46	|# 365	|Word 2:1	
+46	|# subscription	|Word 26:1	
+46	|# id	|Word 18:1	
+46	|# どこ	|Word 19:1	
+46	|# 書く	|Word 27:1	
+46	|# いる	|Word 28:1	
+47	|# o	|Word 25:1	|Label 3:1
+47	|# 365	|Word 2:1	
+47	|# subscription	|Word 26:1	
+47	|# id	|Word 18:1	
+47	|# 教える	|Word 29:1	
+47	|# くださる	|Word 23:1	
+48	|# office	|Word 1:1	|Label 1:1
+48	|# 365	|Word 2:1	
+48	|# って	|Word 3:1	
+48	|# どう	|Word 4:1	
+48	|# やる	|Word 5:1	
+48	|# 買える	|Word 6:1	
+49	|# office	|Word 1:1	|Label 1:1
+49	|# 365	|Word 2:1	
+49	|# 買う	|Word 7:1	
+49	|# 方法	|Word 8:1	
+50	|# excel	|Word 9:1	|Label 2:1
+50	|# だけ	|Word 10:1	
+50	|# 買う	|Word 7:1	
+50	|# こと	|Word 11:1	
+50	|# できる	|Word 12:1	
+50	|# ます	|Word 13:1	
+50	|# か	|Word 14:1	
+51	|# excel	|Word 9:1	|Label 2:1
+51	|# 単体	|Word 15:1	
+51	|# 買う	|Word 7:1	
+51	|# こと	|Word 11:1	
+51	|# 可能	|Word 16:1	
+52	|# office	|Word 1:1	|Label 3:1
+52	|# 365	|Word 2:1	
+52	|# サブスクリプション	|Word 17:1	
+52	|# id	|Word 18:1	
+52	|# って	|Word 3:1	
+52	|# どこ	|Word 19:1	
+52	|# わかる	|Word 20:1	
+53	|# office	|Word 1:1	|Label 3:1
+53	|# 365	|Word 2:1	
+53	|# サブスクリプション	|Word 17:1	
+53	|# id	|Word 18:1	
+53	|# 入力	|Word 21:1	
+53	|# する	|Word 22:1	
+53	|# くださる	|Word 23:1	
+53	|# 出る	|Word 24:1	
+53	|# ます	|Word 13:1	
+54	|# o	|Word 25:1	|Label 3:1
+54	|# 365	|Word 2:1	
+54	|# subscription	|Word 26:1	
+54	|# id	|Word 18:1	
+54	|# どこ	|Word 19:1	
+54	|# 書く	|Word 27:1	
+54	|# いる	|Word 28:1	
+55	|# o	|Word 25:1	|Label 3:1
+55	|# 365	|Word 2:1	
+55	|# subscription	|Word 26:1	
+55	|# id	|Word 18:1	
+55	|# 教える	|Word 29:1	
+55	|# くださる	|Word 23:1	
+56	|# office	|Word 1:1	|Label 1:1
+56	|# 365	|Word 2:1	
+56	|# って	|Word 3:1	
+56	|# どう	|Word 4:1	
+56	|# やる	|Word 5:1	
+56	|# 買える	|Word 6:1	
+57	|# office	|Word 1:1	|Label 1:1
+57	|# 365	|Word 2:1	
+57	|# 買う	|Word 7:1	
+57	|# 方法	|Word 8:1	
+58	|# excel	|Word 9:1	|Label 2:1
+58	|# だけ	|Word 10:1	
+58	|# 買う	|Word 7:1	
+58	|# こと	|Word 11:1	
+58	|# できる	|Word 12:1	
+58	|# ます	|Word 13:1	
+58	|# か	|Word 14:1	
+59	|# excel	|Word 9:1	|Label 2:1
+59	|# 単体	|Word 15:1	
+59	|# 買う	|Word 7:1	
+59	|# こと	|Word 11:1	
+59	|# 可能	|Word 16:1	
+60	|# office	|Word 1:1	|Label 3:1
+60	|# 365	|Word 2:1	
+60	|# サブスクリプション	|Word 17:1	
+60	|# id	|Word 18:1	
+60	|# って	|Word 3:1	
+60	|# どこ	|Word 19:1	
+60	|# わかる	|Word 20:1	
+61	|# office	|Word 1:1	|Label 3:1
+61	|# 365	|Word 2:1	
+61	|# サブスクリプション	|Word 17:1	
+61	|# id	|Word 18:1	
+61	|# 入力	|Word 21:1	
+61	|# する	|Word 22:1	
+61	|# くださる	|Word 23:1	
+61	|# 出る	|Word 24:1	
+61	|# ます	|Word 13:1	
+62	|# o	|Word 25:1	|Label 3:1
+62	|# 365	|Word 2:1	
+62	|# subscription	|Word 26:1	
+62	|# id	|Word 18:1	
+62	|# どこ	|Word 19:1	
+62	|# 書く	|Word 27:1	
+62	|# いる	|Word 28:1	
+63	|# o	|Word 25:1	|Label 3:1
+63	|# 365	|Word 2:1	
+63	|# subscription	|Word 26:1	
+63	|# id	|Word 18:1	
+63	|# 教える	|Word 29:1	
+63	|# くださる	|Word 23:1	
+64	|# office	|Word 1:1	|Label 1:1
+64	|# 365	|Word 2:1	
+64	|# って	|Word 3:1	
+64	|# どう	|Word 4:1	
+64	|# やる	|Word 5:1	
+64	|# 買える	|Word 6:1	
+65	|# office	|Word 1:1	|Label 1:1
+65	|# 365	|Word 2:1	
+65	|# 買う	|Word 7:1	
+65	|# 方法	|Word 8:1	
+66	|# excel	|Word 9:1	|Label 2:1
+66	|# だけ	|Word 10:1	
+66	|# 買う	|Word 7:1	
+66	|# こと	|Word 11:1	
+66	|# できる	|Word 12:1	
+66	|# ます	|Word 13:1	
+66	|# か	|Word 14:1	
+67	|# excel	|Word 9:1	|Label 2:1
+67	|# 単体	|Word 15:1	
+67	|# 買う	|Word 7:1	
+67	|# こと	|Word 11:1	
+67	|# 可能	|Word 16:1	
+68	|# office	|Word 1:1	|Label 3:1
+68	|# 365	|Word 2:1	
+68	|# サブスクリプション	|Word 17:1	
+68	|# id	|Word 18:1	
+68	|# って	|Word 3:1	
+68	|# どこ	|Word 19:1	
+68	|# わかる	|Word 20:1	
+69	|# office	|Word 1:1	|Label 3:1
+69	|# 365	|Word 2:1	
+69	|# サブスクリプション	|Word 17:1	
+69	|# id	|Word 18:1	
+69	|# 入力	|Word 21:1	
+69	|# する	|Word 22:1	
+69	|# くださる	|Word 23:1	
+69	|# 出る	|Word 24:1	
+69	|# ます	|Word 13:1	
+70	|# o	|Word 25:1	|Label 3:1
+70	|# 365	|Word 2:1	
+70	|# subscription	|Word 26:1	
+70	|# id	|Word 18:1	
+70	|# どこ	|Word 19:1	
+70	|# 書く	|Word 27:1	
+70	|# いる	|Word 28:1	
+71	|# o	|Word 25:1	|Label 3:1
+71	|# 365	|Word 2:1	
+71	|# subscription	|Word 26:1	
+71	|# id	|Word 18:1	
+71	|# 教える	|Word 29:1	
+71	|# くださる	|Word 23:1	
+72	|# office	|Word 1:1	|Label 1:1
+72	|# 365	|Word 2:1	
+72	|# って	|Word 3:1	
+72	|# どう	|Word 4:1	
+72	|# やる	|Word 5:1	
+72	|# 買える	|Word 6:1	
+73	|# office	|Word 1:1	|Label 1:1
+73	|# 365	|Word 2:1	
+73	|# 買う	|Word 7:1	
+73	|# 方法	|Word 8:1	
+74	|# excel	|Word 9:1	|Label 2:1
+74	|# だけ	|Word 10:1	
+74	|# 買う	|Word 7:1	
+74	|# こと	|Word 11:1	
+74	|# できる	|Word 12:1	
+74	|# ます	|Word 13:1	
+74	|# か	|Word 14:1	
+75	|# excel	|Word 9:1	|Label 2:1
+75	|# 単体	|Word 15:1	
+75	|# 買う	|Word 7:1	
+75	|# こと	|Word 11:1	
+75	|# 可能	|Word 16:1	
+76	|# office	|Word 1:1	|Label 3:1
+76	|# 365	|Word 2:1	
+76	|# サブスクリプション	|Word 17:1	
+76	|# id	|Word 18:1	
+76	|# って	|Word 3:1	
+76	|# どこ	|Word 19:1	
+76	|# わかる	|Word 20:1	
+77	|# office	|Word 1:1	|Label 3:1
+77	|# 365	|Word 2:1	
+77	|# サブスクリプション	|Word 17:1	
+77	|# id	|Word 18:1	
+77	|# 入力	|Word 21:1	
+77	|# する	|Word 22:1	
+77	|# くださる	|Word 23:1	
+77	|# 出る	|Word 24:1	
+77	|# ます	|Word 13:1	
+78	|# o	|Word 25:1	|Label 3:1
+78	|# 365	|Word 2:1	
+78	|# subscription	|Word 26:1	
+78	|# id	|Word 18:1	
+78	|# どこ	|Word 19:1	
+78	|# 書く	|Word 27:1	
+78	|# いる	|Word 28:1	
+79	|# o	|Word 25:1	|Label 3:1
+79	|# 365	|Word 2:1	
+79	|# subscription	|Word 26:1	
+79	|# id	|Word 18:1	
+79	|# 教える	|Word 29:1	
+79	|# くださる	|Word 23:1	
+80	|# office	|Word 1:1	|Label 1:1
+80	|# 365	|Word 2:1	
+80	|# って	|Word 3:1	
+80	|# どう	|Word 4:1	
+80	|# やる	|Word 5:1	
+80	|# 買える	|Word 6:1	
+81	|# office	|Word 1:1	|Label 1:1
+81	|# 365	|Word 2:1	
+81	|# 買う	|Word 7:1	
+81	|# 方法	|Word 8:1	
+82	|# excel	|Word 9:1	|Label 2:1
+82	|# だけ	|Word 10:1	
+82	|# 買う	|Word 7:1	
+82	|# こと	|Word 11:1	
+82	|# できる	|Word 12:1	
+82	|# ます	|Word 13:1	
+82	|# か	|Word 14:1	
+83	|# excel	|Word 9:1	|Label 2:1
+83	|# 単体	|Word 15:1	
+83	|# 買う	|Word 7:1	
+83	|# こと	|Word 11:1	
+83	|# 可能	|Word 16:1	
+84	|# office	|Word 1:1	|Label 3:1
+84	|# 365	|Word 2:1	
+84	|# サブスクリプション	|Word 17:1	
+84	|# id	|Word 18:1	
+84	|# って	|Word 3:1	
+84	|# どこ	|Word 19:1	
+84	|# わかる	|Word 20:1	
+85	|# office	|Word 1:1	|Label 3:1
+85	|# 365	|Word 2:1	
+85	|# サブスクリプション	|Word 17:1	
+85	|# id	|Word 18:1	
+85	|# 入力	|Word 21:1	
+85	|# する	|Word 22:1	
+85	|# くださる	|Word 23:1	
+85	|# 出る	|Word 24:1	
+85	|# ます	|Word 13:1	
+86	|# o	|Word 25:1	|Label 3:1
+86	|# 365	|Word 2:1	
+86	|# subscription	|Word 26:1	
+86	|# id	|Word 18:1	
+86	|# どこ	|Word 19:1	
+86	|# 書く	|Word 27:1	
+86	|# いる	|Word 28:1	
+87	|# o	|Word 25:1	|Label 3:1
+87	|# 365	|Word 2:1	
+87	|# subscription	|Word 26:1	
+87	|# id	|Word 18:1	
+87	|# 教える	|Word 29:1	
+87	|# くださる	|Word 23:1	
+88	|# office	|Word 1:1	|Label 1:1
+88	|# 365	|Word 2:1	
+88	|# って	|Word 3:1	
+88	|# どう	|Word 4:1	
+88	|# やる	|Word 5:1	
+88	|# 買える	|Word 6:1	
+89	|# office	|Word 1:1	|Label 1:1
+89	|# 365	|Word 2:1	
+89	|# 買う	|Word 7:1	
+89	|# 方法	|Word 8:1	
+90	|# excel	|Word 9:1	|Label 2:1
+90	|# だけ	|Word 10:1	
+90	|# 買う	|Word 7:1	
+90	|# こと	|Word 11:1	
+90	|# できる	|Word 12:1	
+90	|# ます	|Word 13:1	
+90	|# か	|Word 14:1	
+91	|# excel	|Word 9:1	|Label 2:1
+91	|# 単体	|Word 15:1	
+91	|# 買う	|Word 7:1	
+91	|# こと	|Word 11:1	
+91	|# 可能	|Word 16:1	
+92	|# office	|Word 1:1	|Label 3:1
+92	|# 365	|Word 2:1	
+92	|# サブスクリプション	|Word 17:1	
+92	|# id	|Word 18:1	
+92	|# って	|Word 3:1	
+92	|# どこ	|Word 19:1	
+92	|# わかる	|Word 20:1	
+93	|# office	|Word 1:1	|Label 3:1
+93	|# 365	|Word 2:1	
+93	|# サブスクリプション	|Word 17:1	
+93	|# id	|Word 18:1	
+93	|# 入力	|Word 21:1	
+93	|# する	|Word 22:1	
+93	|# くださる	|Word 23:1	
+93	|# 出る	|Word 24:1	
+93	|# ます	|Word 13:1	
+94	|# o	|Word 25:1	|Label 3:1
+94	|# 365	|Word 2:1	
+94	|# subscription	|Word 26:1	
+94	|# id	|Word 18:1	
+94	|# どこ	|Word 19:1	
+94	|# 書く	|Word 27:1	
+94	|# いる	|Word 28:1	
+95	|# o	|Word 25:1	|Label 3:1
+95	|# 365	|Word 2:1	
+95	|# subscription	|Word 26:1	
+95	|# id	|Word 18:1	
+95	|# 教える	|Word 29:1	
+95	|# くださる	|Word 23:1	
+96	|# office	|Word 1:1	|Label 1:1
+96	|# 365	|Word 2:1	
+96	|# って	|Word 3:1	
+96	|# どう	|Word 4:1	
+96	|# やる	|Word 5:1	
+96	|# 買える	|Word 6:1	
+97	|# office	|Word 1:1	|Label 1:1
+97	|# 365	|Word 2:1	
+97	|# 買う	|Word 7:1	
+97	|# 方法	|Word 8:1	
+98	|# excel	|Word 9:1	|Label 2:1
+98	|# だけ	|Word 10:1	
+98	|# 買う	|Word 7:1	
+98	|# こと	|Word 11:1	
+98	|# できる	|Word 12:1	
+98	|# ます	|Word 13:1	
+98	|# か	|Word 14:1	
+99	|# excel	|Word 9:1	|Label 2:1
+99	|# 単体	|Word 15:1	
+99	|# 買う	|Word 7:1	
+99	|# こと	|Word 11:1	
+99	|# 可能	|Word 16:1	
+100	|# office	|Word 1:1	|Label 3:1
+100	|# 365	|Word 2:1	
+100	|# サブスクリプション	|Word 17:1	
+100	|# id	|Word 18:1	
+100	|# って	|Word 3:1	
+100	|# どこ	|Word 19:1	
+100	|# わかる	|Word 20:1	
+101	|# office	|Word 1:1	|Label 3:1
+101	|# 365	|Word 2:1	
+101	|# サブスクリプション	|Word 17:1	
+101	|# id	|Word 18:1	
+101	|# 入力	|Word 21:1	
+101	|# する	|Word 22:1	
+101	|# くださる	|Word 23:1	
+101	|# 出る	|Word 24:1	
+101	|# ます	|Word 13:1	
+102	|# o	|Word 25:1	|Label 3:1
+102	|# 365	|Word 2:1	
+102	|# subscription	|Word 26:1	
+102	|# id	|Word 18:1	
+102	|# どこ	|Word 19:1	
+102	|# 書く	|Word 27:1	
+102	|# いる	|Word 28:1	
+103	|# o	|Word 25:1	|Label 3:1
+103	|# 365	|Word 2:1	
+103	|# subscription	|Word 26:1	
+103	|# id	|Word 18:1	
+103	|# 教える	|Word 29:1	
+103	|# くださる	|Word 23:1	
+104	|# office	|Word 1:1	|Label 1:1
+104	|# 365	|Word 2:1	
+104	|# って	|Word 3:1	
+104	|# どう	|Word 4:1	
+104	|# やる	|Word 5:1	
+104	|# 買える	|Word 6:1	
+105	|# office	|Word 1:1	|Label 1:1
+105	|# 365	|Word 2:1	
+105	|# 買う	|Word 7:1	
+105	|# 方法	|Word 8:1	
+106	|# excel	|Word 9:1	|Label 2:1
+106	|# だけ	|Word 10:1	
+106	|# 買う	|Word 7:1	
+106	|# こと	|Word 11:1	
+106	|# できる	|Word 12:1	
+106	|# ます	|Word 13:1	
+106	|# か	|Word 14:1	
+107	|# excel	|Word 9:1	|Label 2:1
+107	|# 単体	|Word 15:1	
+107	|# 買う	|Word 7:1	
+107	|# こと	|Word 11:1	
+107	|# 可能	|Word 16:1	
+108	|# office	|Word 1:1	|Label 3:1
+108	|# 365	|Word 2:1	
+108	|# サブスクリプション	|Word 17:1	
+108	|# id	|Word 18:1	
+108	|# って	|Word 3:1	
+108	|# どこ	|Word 19:1	
+108	|# わかる	|Word 20:1	
+109	|# office	|Word 1:1	|Label 3:1
+109	|# 365	|Word 2:1	
+109	|# サブスクリプション	|Word 17:1	
+109	|# id	|Word 18:1	
+109	|# 入力	|Word 21:1	
+109	|# する	|Word 22:1	
+109	|# くださる	|Word 23:1	
+109	|# 出る	|Word 24:1	
+109	|# ます	|Word 13:1	
+110	|# o	|Word 25:1	|Label 3:1
+110	|# 365	|Word 2:1	
+110	|# subscription	|Word 26:1	
+110	|# id	|Word 18:1	
+110	|# どこ	|Word 19:1	
+110	|# 書く	|Word 27:1	
+110	|# いる	|Word 28:1	
+111	|# o	|Word 25:1	|Label 3:1
+111	|# 365	|Word 2:1	
+111	|# subscription	|Word 26:1	
+111	|# id	|Word 18:1	
+111	|# 教える	|Word 29:1	
+111	|# くださる	|Word 23:1	
+112	|# office	|Word 1:1	|Label 1:1
+112	|# 365	|Word 2:1	
+112	|# って	|Word 3:1	
+112	|# どう	|Word 4:1	
+112	|# やる	|Word 5:1	
+112	|# 買える	|Word 6:1	
+113	|# office	|Word 1:1	|Label 1:1
+113	|# 365	|Word 2:1	
+113	|# 買う	|Word 7:1	
+113	|# 方法	|Word 8:1	
+114	|# excel	|Word 9:1	|Label 2:1
+114	|# だけ	|Word 10:1	
+114	|# 買う	|Word 7:1	
+114	|# こと	|Word 11:1	
+114	|# できる	|Word 12:1	
+114	|# ます	|Word 13:1	
+114	|# か	|Word 14:1	
+115	|# excel	|Word 9:1	|Label 2:1
+115	|# 単体	|Word 15:1	
+115	|# 買う	|Word 7:1	
+115	|# こと	|Word 11:1	
+115	|# 可能	|Word 16:1	
+116	|# office	|Word 1:1	|Label 3:1
+116	|# 365	|Word 2:1	
+116	|# サブスクリプション	|Word 17:1	
+116	|# id	|Word 18:1	
+116	|# って	|Word 3:1	
+116	|# どこ	|Word 19:1	
+116	|# わかる	|Word 20:1	
+117	|# office	|Word 1:1	|Label 3:1
+117	|# 365	|Word 2:1	
+117	|# サブスクリプション	|Word 17:1	
+117	|# id	|Word 18:1	
+117	|# 入力	|Word 21:1	
+117	|# する	|Word 22:1	
+117	|# くださる	|Word 23:1	
+117	|# 出る	|Word 24:1	
+117	|# ます	|Word 13:1	
+118	|# o	|Word 25:1	|Label 3:1
+118	|# 365	|Word 2:1	
+118	|# subscription	|Word 26:1	
+118	|# id	|Word 18:1	
+118	|# どこ	|Word 19:1	
+118	|# 書く	|Word 27:1	
+118	|# いる	|Word 28:1	
+119	|# o	|Word 25:1	|Label 3:1
+119	|# 365	|Word 2:1	
+119	|# subscription	|Word 26:1	
+119	|# id	|Word 18:1	
+119	|# 教える	|Word 29:1	
+119	|# くださる	|Word 23:1	
+120	|# office	|Word 1:1	|Label 1:1
+120	|# 365	|Word 2:1	
+120	|# って	|Word 3:1	
+120	|# どう	|Word 4:1	
+120	|# やる	|Word 5:1	
+120	|# 買える	|Word 6:1	
+121	|# office	|Word 1:1	|Label 1:1
+121	|# 365	|Word 2:1	
+121	|# 買う	|Word 7:1	
+121	|# 方法	|Word 8:1	
+122	|# excel	|Word 9:1	|Label 2:1
+122	|# だけ	|Word 10:1	
+122	|# 買う	|Word 7:1	
+122	|# こと	|Word 11:1	
+122	|# できる	|Word 12:1	
+122	|# ます	|Word 13:1	
+122	|# か	|Word 14:1	
+123	|# excel	|Word 9:1	|Label 2:1
+123	|# 単体	|Word 15:1	
+123	|# 買う	|Word 7:1	
+123	|# こと	|Word 11:1	
+123	|# 可能	|Word 16:1	
+124	|# office	|Word 1:1	|Label 3:1
+124	|# 365	|Word 2:1	
+124	|# サブスクリプション	|Word 17:1	
+124	|# id	|Word 18:1	
+124	|# って	|Word 3:1	
+124	|# どこ	|Word 19:1	
+124	|# わかる	|Word 20:1	
+125	|# office	|Word 1:1	|Label 3:1
+125	|# 365	|Word 2:1	
+125	|# サブスクリプション	|Word 17:1	
+125	|# id	|Word 18:1	
+125	|# 入力	|Word 21:1	
+125	|# する	|Word 22:1	
+125	|# くださる	|Word 23:1	
+125	|# 出る	|Word 24:1	
+125	|# ます	|Word 13:1	
+126	|# o	|Word 25:1	|Label 3:1
+126	|# 365	|Word 2:1	
+126	|# subscription	|Word 26:1	
+126	|# id	|Word 18:1	
+126	|# どこ	|Word 19:1	
+126	|# 書く	|Word 27:1	
+126	|# いる	|Word 28:1	
+127	|# o	|Word 25:1	|Label 3:1
+127	|# 365	|Word 2:1	
+127	|# subscription	|Word 26:1	
+127	|# id	|Word 18:1	
+127	|# 教える	|Word 29:1	
+127	|# くださる	|Word 23:1	
+128	|# office	|Word 1:1	|Label 1:1
+128	|# 365	|Word 2:1	
+128	|# って	|Word 3:1	
+128	|# どう	|Word 4:1	
+128	|# やる	|Word 5:1	
+128	|# 買える	|Word 6:1	
+129	|# office	|Word 1:1	|Label 1:1
+129	|# 365	|Word 2:1	
+129	|# 買う	|Word 7:1	
+129	|# 方法	|Word 8:1	
+130	|# excel	|Word 9:1	|Label 2:1
+130	|# だけ	|Word 10:1	
+130	|# 買う	|Word 7:1	
+130	|# こと	|Word 11:1	
+130	|# できる	|Word 12:1	
+130	|# ます	|Word 13:1	
+130	|# か	|Word 14:1	
+131	|# excel	|Word 9:1	|Label 2:1
+131	|# 単体	|Word 15:1	
+131	|# 買う	|Word 7:1	
+131	|# こと	|Word 11:1	
+131	|# 可能	|Word 16:1	
+132	|# office	|Word 1:1	|Label 3:1
+132	|# 365	|Word 2:1	
+132	|# サブスクリプション	|Word 17:1	
+132	|# id	|Word 18:1	
+132	|# って	|Word 3:1	
+132	|# どこ	|Word 19:1	
+132	|# わかる	|Word 20:1	
+133	|# office	|Word 1:1	|Label 3:1
+133	|# 365	|Word 2:1	
+133	|# サブスクリプション	|Word 17:1	
+133	|# id	|Word 18:1	
+133	|# 入力	|Word 21:1	
+133	|# する	|Word 22:1	
+133	|# くださる	|Word 23:1	
+133	|# 出る	|Word 24:1	
+133	|# ます	|Word 13:1	
+134	|# o	|Word 25:1	|Label 3:1
+134	|# 365	|Word 2:1	
+134	|# subscription	|Word 26:1	
+134	|# id	|Word 18:1	
+134	|# どこ	|Word 19:1	
+134	|# 書く	|Word 27:1	
+134	|# いる	|Word 28:1	
+135	|# o	|Word 25:1	|Label 3:1
+135	|# 365	|Word 2:1	
+135	|# subscription	|Word 26:1	
+135	|# id	|Word 18:1	
+135	|# 教える	|Word 29:1	
+135	|# くださる	|Word 23:1	
+136	|# office	|Word 1:1	|Label 1:1
+136	|# 365	|Word 2:1	
+136	|# って	|Word 3:1	
+136	|# どう	|Word 4:1	
+136	|# やる	|Word 5:1	
+136	|# 買える	|Word 6:1	
+137	|# office	|Word 1:1	|Label 1:1
+137	|# 365	|Word 2:1	
+137	|# 買う	|Word 7:1	
+137	|# 方法	|Word 8:1	
+138	|# excel	|Word 9:1	|Label 2:1
+138	|# だけ	|Word 10:1	
+138	|# 買う	|Word 7:1	
+138	|# こと	|Word 11:1	
+138	|# できる	|Word 12:1	
+138	|# ます	|Word 13:1	
+138	|# か	|Word 14:1	
+139	|# excel	|Word 9:1	|Label 2:1
+139	|# 単体	|Word 15:1	
+139	|# 買う	|Word 7:1	
+139	|# こと	|Word 11:1	
+139	|# 可能	|Word 16:1	
+140	|# office	|Word 1:1	|Label 3:1
+140	|# 365	|Word 2:1	
+140	|# サブスクリプション	|Word 17:1	
+140	|# id	|Word 18:1	
+140	|# って	|Word 3:1	
+140	|# どこ	|Word 19:1	
+140	|# わかる	|Word 20:1	
+141	|# office	|Word 1:1	|Label 3:1
+141	|# 365	|Word 2:1	
+141	|# サブスクリプション	|Word 17:1	
+141	|# id	|Word 18:1	
+141	|# 入力	|Word 21:1	
+141	|# する	|Word 22:1	
+141	|# くださる	|Word 23:1	
+141	|# 出る	|Word 24:1	
+141	|# ます	|Word 13:1	
+142	|# o	|Word 25:1	|Label 3:1
+142	|# 365	|Word 2:1	
+142	|# subscription	|Word 26:1	
+142	|# id	|Word 18:1	
+142	|# どこ	|Word 19:1	
+142	|# 書く	|Word 27:1	
+142	|# いる	|Word 28:1	
+143	|# o	|Word 25:1	|Label 3:1
+143	|# 365	|Word 2:1	
+143	|# subscription	|Word 26:1	
+143	|# id	|Word 18:1	
+143	|# 教える	|Word 29:1	
+143	|# くださる	|Word 23:1	
+144	|# office	|Word 1:1	|Label 1:1
+144	|# 365	|Word 2:1	
+144	|# って	|Word 3:1	
+144	|# どう	|Word 4:1	
+144	|# やる	|Word 5:1	
+144	|# 買える	|Word 6:1	
+145	|# office	|Word 1:1	|Label 1:1
+145	|# 365	|Word 2:1	
+145	|# 買う	|Word 7:1	
+145	|# 方法	|Word 8:1	
+146	|# excel	|Word 9:1	|Label 2:1
+146	|# だけ	|Word 10:1	
+146	|# 買う	|Word 7:1	
+146	|# こと	|Word 11:1	
+146	|# できる	|Word 12:1	
+146	|# ます	|Word 13:1	
+146	|# か	|Word 14:1	
+147	|# excel	|Word 9:1	|Label 2:1
+147	|# 単体	|Word 15:1	
+147	|# 買う	|Word 7:1	
+147	|# こと	|Word 11:1	
+147	|# 可能	|Word 16:1	
+148	|# office	|Word 1:1	|Label 3:1
+148	|# 365	|Word 2:1	
+148	|# サブスクリプション	|Word 17:1	
+148	|# id	|Word 18:1	
+148	|# って	|Word 3:1	
+148	|# どこ	|Word 19:1	
+148	|# わかる	|Word 20:1	
+149	|# office	|Word 1:1	|Label 3:1
+149	|# 365	|Word 2:1	
+149	|# サブスクリプション	|Word 17:1	
+149	|# id	|Word 18:1	
+149	|# 入力	|Word 21:1	
+149	|# する	|Word 22:1	
+149	|# くださる	|Word 23:1	
+149	|# 出る	|Word 24:1	
+149	|# ます	|Word 13:1	
+150	|# o	|Word 25:1	|Label 3:1
+150	|# 365	|Word 2:1	
+150	|# subscription	|Word 26:1	
+150	|# id	|Word 18:1	
+150	|# どこ	|Word 19:1	
+150	|# 書く	|Word 27:1	
+150	|# いる	|Word 28:1	
+151	|# o	|Word 25:1	|Label 3:1
+151	|# 365	|Word 2:1	
+151	|# subscription	|Word 26:1	
+151	|# id	|Word 18:1	
+151	|# 教える	|Word 29:1	
+151	|# くださる	|Word 23:1	
+152	|# office	|Word 1:1	|Label 1:1
+152	|# 365	|Word 2:1	
+152	|# って	|Word 3:1	
+152	|# どう	|Word 4:1	
+152	|# やる	|Word 5:1	
+152	|# 買える	|Word 6:1	
+153	|# office	|Word 1:1	|Label 1:1
+153	|# 365	|Word 2:1	
+153	|# 買う	|Word 7:1	
+153	|# 方法	|Word 8:1	
+154	|# excel	|Word 9:1	|Label 2:1
+154	|# だけ	|Word 10:1	
+154	|# 買う	|Word 7:1	
+154	|# こと	|Word 11:1	
+154	|# できる	|Word 12:1	
+154	|# ます	|Word 13:1	
+154	|# か	|Word 14:1	
+155	|# excel	|Word 9:1	|Label 2:1
+155	|# 単体	|Word 15:1	
+155	|# 買う	|Word 7:1	
+155	|# こと	|Word 11:1	
+155	|# 可能	|Word 16:1	
+156	|# office	|Word 1:1	|Label 3:1
+156	|# 365	|Word 2:1	
+156	|# サブスクリプション	|Word 17:1	
+156	|# id	|Word 18:1	
+156	|# って	|Word 3:1	
+156	|# どこ	|Word 19:1	
+156	|# わかる	|Word 20:1	
+157	|# office	|Word 1:1	|Label 3:1
+157	|# 365	|Word 2:1	
+157	|# サブスクリプション	|Word 17:1	
+157	|# id	|Word 18:1	
+157	|# 入力	|Word 21:1	
+157	|# する	|Word 22:1	
+157	|# くださる	|Word 23:1	
+157	|# 出る	|Word 24:1	
+157	|# ます	|Word 13:1	
+158	|# o	|Word 25:1	|Label 3:1
+158	|# 365	|Word 2:1	
+158	|# subscription	|Word 26:1	
+158	|# id	|Word 18:1	
+158	|# どこ	|Word 19:1	
+158	|# 書く	|Word 27:1	
+158	|# いる	|Word 28:1	
+159	|# o	|Word 25:1	|Label 3:1
+159	|# 365	|Word 2:1	
+159	|# subscription	|Word 26:1	
+159	|# id	|Word 18:1	
+159	|# 教える	|Word 29:1	
+159	|# くださる	|Word 23:1	
+160	|# office	|Word 1:1	|Label 1:1
+160	|# 365	|Word 2:1	
+160	|# って	|Word 3:1	
+160	|# どう	|Word 4:1	
+160	|# やる	|Word 5:1	
+160	|# 買える	|Word 6:1	
+161	|# office	|Word 1:1	|Label 1:1
+161	|# 365	|Word 2:1	
+161	|# 買う	|Word 7:1	
+161	|# 方法	|Word 8:1	
+162	|# excel	|Word 9:1	|Label 2:1
+162	|# だけ	|Word 10:1	
+162	|# 買う	|Word 7:1	
+162	|# こと	|Word 11:1	
+162	|# できる	|Word 12:1	
+162	|# ます	|Word 13:1	
+162	|# か	|Word 14:1	
+163	|# excel	|Word 9:1	|Label 2:1
+163	|# 単体	|Word 15:1	
+163	|# 買う	|Word 7:1	
+163	|# こと	|Word 11:1	
+163	|# 可能	|Word 16:1	
+164	|# office	|Word 1:1	|Label 3:1
+164	|# 365	|Word 2:1	
+164	|# サブスクリプション	|Word 17:1	
+164	|# id	|Word 18:1	
+164	|# って	|Word 3:1	
+164	|# どこ	|Word 19:1	
+164	|# わかる	|Word 20:1	
+165	|# office	|Word 1:1	|Label 3:1
+165	|# 365	|Word 2:1	
+165	|# サブスクリプション	|Word 17:1	
+165	|# id	|Word 18:1	
+165	|# 入力	|Word 21:1	
+165	|# する	|Word 22:1	
+165	|# くださる	|Word 23:1	
+165	|# 出る	|Word 24:1	
+165	|# ます	|Word 13:1	
+166	|# o	|Word 25:1	|Label 3:1
+166	|# 365	|Word 2:1	
+166	|# subscription	|Word 26:1	
+166	|# id	|Word 18:1	
+166	|# どこ	|Word 19:1	
+166	|# 書く	|Word 27:1	
+166	|# いる	|Word 28:1	
+167	|# o	|Word 25:1	|Label 3:1
+167	|# 365	|Word 2:1	
+167	|# subscription	|Word 26:1	
+167	|# id	|Word 18:1	
+167	|# 教える	|Word 29:1	
+167	|# くださる	|Word 23:1	
+168	|# office	|Word 1:1	|Label 1:1
+168	|# 365	|Word 2:1	
+168	|# って	|Word 3:1	
+168	|# どう	|Word 4:1	
+168	|# やる	|Word 5:1	
+168	|# 買える	|Word 6:1	
+169	|# office	|Word 1:1	|Label 1:1
+169	|# 365	|Word 2:1	
+169	|# 買う	|Word 7:1	
+169	|# 方法	|Word 8:1	
+170	|# excel	|Word 9:1	|Label 2:1
+170	|# だけ	|Word 10:1	
+170	|# 買う	|Word 7:1	
+170	|# こと	|Word 11:1	
+170	|# できる	|Word 12:1	
+170	|# ます	|Word 13:1	
+170	|# か	|Word 14:1	
+171	|# excel	|Word 9:1	|Label 2:1
+171	|# 単体	|Word 15:1	
+171	|# 買う	|Word 7:1	
+171	|# こと	|Word 11:1	
+171	|# 可能	|Word 16:1	
+172	|# office	|Word 1:1	|Label 3:1
+172	|# 365	|Word 2:1	
+172	|# サブスクリプション	|Word 17:1	
+172	|# id	|Word 18:1	
+172	|# って	|Word 3:1	
+172	|# どこ	|Word 19:1	
+172	|# わかる	|Word 20:1	
+173	|# office	|Word 1:1	|Label 3:1
+173	|# 365	|Word 2:1	
+173	|# サブスクリプション	|Word 17:1	
+173	|# id	|Word 18:1	
+173	|# 入力	|Word 21:1	
+173	|# する	|Word 22:1	
+173	|# くださる	|Word 23:1	
+173	|# 出る	|Word 24:1	
+173	|# ます	|Word 13:1	
+174	|# o	|Word 25:1	|Label 3:1
+174	|# 365	|Word 2:1	
+174	|# subscription	|Word 26:1	
+174	|# id	|Word 18:1	
+174	|# どこ	|Word 19:1	
+174	|# 書く	|Word 27:1	
+174	|# いる	|Word 28:1	
+175	|# o	|Word 25:1	|Label 3:1
+175	|# 365	|Word 2:1	
+175	|# subscription	|Word 26:1	
+175	|# id	|Word 18:1	
+175	|# 教える	|Word 29:1	
+175	|# くださる	|Word 23:1	
+176	|# office	|Word 1:1	|Label 1:1
+176	|# 365	|Word 2:1	
+176	|# って	|Word 3:1	
+176	|# どう	|Word 4:1	
+176	|# やる	|Word 5:1	
+176	|# 買える	|Word 6:1	
+177	|# office	|Word 1:1	|Label 1:1
+177	|# 365	|Word 2:1	
+177	|# 買う	|Word 7:1	
+177	|# 方法	|Word 8:1	
+178	|# excel	|Word 9:1	|Label 2:1
+178	|# だけ	|Word 10:1	
+178	|# 買う	|Word 7:1	
+178	|# こと	|Word 11:1	
+178	|# できる	|Word 12:1	
+178	|# ます	|Word 13:1	
+178	|# か	|Word 14:1	
+179	|# excel	|Word 9:1	|Label 2:1
+179	|# 単体	|Word 15:1	
+179	|# 買う	|Word 7:1	
+179	|# こと	|Word 11:1	
+179	|# 可能	|Word 16:1	
+180	|# office	|Word 1:1	|Label 3:1
+180	|# 365	|Word 2:1	
+180	|# サブスクリプション	|Word 17:1	
+180	|# id	|Word 18:1	
+180	|# って	|Word 3:1	
+180	|# どこ	|Word 19:1	
+180	|# わかる	|Word 20:1	
+181	|# office	|Word 1:1	|Label 3:1
+181	|# 365	|Word 2:1	
+181	|# サブスクリプション	|Word 17:1	
+181	|# id	|Word 18:1	
+181	|# 入力	|Word 21:1	
+181	|# する	|Word 22:1	
+181	|# くださる	|Word 23:1	
+181	|# 出る	|Word 24:1	
+181	|# ます	|Word 13:1	
+182	|# o	|Word 25:1	|Label 3:1
+182	|# 365	|Word 2:1	
+182	|# subscription	|Word 26:1	
+182	|# id	|Word 18:1	
+182	|# どこ	|Word 19:1	
+182	|# 書く	|Word 27:1	
+182	|# いる	|Word 28:1	
+183	|# o	|Word 25:1	|Label 3:1
+183	|# 365	|Word 2:1	
+183	|# subscription	|Word 26:1	
+183	|# id	|Word 18:1	
+183	|# 教える	|Word 29:1	
+183	|# くださる	|Word 23:1	
+184	|# office	|Word 1:1	|Label 1:1
+184	|# 365	|Word 2:1	
+184	|# って	|Word 3:1	
+184	|# どう	|Word 4:1	
+184	|# やる	|Word 5:1	
+184	|# 買える	|Word 6:1	
+185	|# office	|Word 1:1	|Label 1:1
+185	|# 365	|Word 2:1	
+185	|# 買う	|Word 7:1	
+185	|# 方法	|Word 8:1	
+186	|# excel	|Word 9:1	|Label 2:1
+186	|# だけ	|Word 10:1	
+186	|# 買う	|Word 7:1	
+186	|# こと	|Word 11:1	
+186	|# できる	|Word 12:1	
+186	|# ます	|Word 13:1	
+186	|# か	|Word 14:1	
+187	|# excel	|Word 9:1	|Label 2:1
+187	|# 単体	|Word 15:1	
+187	|# 買う	|Word 7:1	
+187	|# こと	|Word 11:1	
+187	|# 可能	|Word 16:1	
+188	|# office	|Word 1:1	|Label 3:1
+188	|# 365	|Word 2:1	
+188	|# サブスクリプション	|Word 17:1	
+188	|# id	|Word 18:1	
+188	|# って	|Word 3:1	
+188	|# どこ	|Word 19:1	
+188	|# わかる	|Word 20:1	
+189	|# office	|Word 1:1	|Label 3:1
+189	|# 365	|Word 2:1	
+189	|# サブスクリプション	|Word 17:1	
+189	|# id	|Word 18:1	
+189	|# 入力	|Word 21:1	
+189	|# する	|Word 22:1	
+189	|# くださる	|Word 23:1	
+189	|# 出る	|Word 24:1	
+189	|# ます	|Word 13:1	
+190	|# o	|Word 25:1	|Label 3:1
+190	|# 365	|Word 2:1	
+190	|# subscription	|Word 26:1	
+190	|# id	|Word 18:1	
+190	|# どこ	|Word 19:1	
+190	|# 書く	|Word 27:1	
+190	|# いる	|Word 28:1	
+191	|# o	|Word 25:1	|Label 3:1
+191	|# 365	|Word 2:1	
+191	|# subscription	|Word 26:1	
+191	|# id	|Word 18:1	
+191	|# 教える	|Word 29:1	
+191	|# くださる	|Word 23:1	
+192	|# office	|Word 1:1	|Label 1:1
+192	|# 365	|Word 2:1	
+192	|# って	|Word 3:1	
+192	|# どう	|Word 4:1	
+192	|# やる	|Word 5:1	
+192	|# 買える	|Word 6:1	
+193	|# office	|Word 1:1	|Label 1:1
+193	|# 365	|Word 2:1	
+193	|# 買う	|Word 7:1	
+193	|# 方法	|Word 8:1	
+194	|# excel	|Word 9:1	|Label 2:1
+194	|# だけ	|Word 10:1	
+194	|# 買う	|Word 7:1	
+194	|# こと	|Word 11:1	
+194	|# できる	|Word 12:1	
+194	|# ます	|Word 13:1	
+194	|# か	|Word 14:1	
+195	|# excel	|Word 9:1	|Label 2:1
+195	|# 単体	|Word 15:1	
+195	|# 買う	|Word 7:1	
+195	|# こと	|Word 11:1	
+195	|# 可能	|Word 16:1	
+196	|# office	|Word 1:1	|Label 3:1
+196	|# 365	|Word 2:1	
+196	|# サブスクリプション	|Word 17:1	
+196	|# id	|Word 18:1	
+196	|# って	|Word 3:1	
+196	|# どこ	|Word 19:1	
+196	|# わかる	|Word 20:1	
+197	|# office	|Word 1:1	|Label 3:1
+197	|# 365	|Word 2:1	
+197	|# サブスクリプション	|Word 17:1	
+197	|# id	|Word 18:1	
+197	|# 入力	|Word 21:1	
+197	|# する	|Word 22:1	
+197	|# くださる	|Word 23:1	
+197	|# 出る	|Word 24:1	
+197	|# ます	|Word 13:1	
+198	|# o	|Word 25:1	|Label 3:1
+198	|# 365	|Word 2:1	
+198	|# subscription	|Word 26:1	
+198	|# id	|Word 18:1	
+198	|# どこ	|Word 19:1	
+198	|# 書く	|Word 27:1	
+198	|# いる	|Word 28:1	
+199	|# o	|Word 25:1	|Label 3:1
+199	|# 365	|Word 2:1	
+199	|# subscription	|Word 26:1	
+199	|# id	|Word 18:1	
+199	|# 教える	|Word 29:1	
+199	|# くださる	|Word 23:1	
